@@ -13,7 +13,7 @@ function Footer() {
         Follow Me &nbsp;&#129109;
       </Link>
       <Link
-        href="https://thecodedealer.com"
+        href="https://dj-dev-portfolioo.web.app/" target="_blank"
         className="flex items-center text-sm font-medium hover:text-slate-200 ease-in-out transition-all duration-500"
       >
         <span className="pr-2">Made by</span>
@@ -21,7 +21,7 @@ function Footer() {
         <span className="pl-1 font-medium text-slate-200">DJ-Dev</span>
       </Link>
       <Link
-        href="https://github.com/Daarshan23/Snap-Code"
+        href="https://github.com/Daarshan23/Snap-Code" target="_blank"
         className="flex items-center text-sm font-medium hover:text-slate-200 ease-in-out transition-all duration-500"
       >
         Source Code Here &nbsp;&#129109;
